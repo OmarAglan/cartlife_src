@@ -13,4 +13,6 @@ import function Overwriter();
 //import String keyword;
 //import int keytype;
 //import function customerbreakaway();
-import float tiprecord[]; 
+import float tiprecord[];
+import function SetGlobalInt(int, int);
+import function GetGlobalInt(int);
