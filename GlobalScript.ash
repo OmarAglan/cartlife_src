@@ -14,5 +14,5 @@ import function Overwriter();
 //import int keytype;
 //import function customerbreakaway();
 import float tiprecord[];
-import function SetGlobalInt(int, int);
-import function GetGlobalInt(int);
+import void SetGlobalInt(int, int);
+import int GetGlobalInt(int);
